@@ -8,7 +8,7 @@ class SelectSearchPage extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text("SelectSearchPage 探し方洗濯画面"),
+          title: const Text("探し方洗濯画面 SelectSearchPage"),
         ),
         body: Center(
           child: Column(

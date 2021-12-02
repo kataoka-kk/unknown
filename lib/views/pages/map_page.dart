@@ -8,7 +8,7 @@ class MapPage extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text("MapPage MAP"),
+          title: const Text("MAP MapPage"),
         ),
         body: Center(
           child: Column(

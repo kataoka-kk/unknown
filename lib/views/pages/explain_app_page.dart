@@ -14,7 +14,7 @@ class ExplainAppPage extends StatelessWidget {
           },
         ),
         appBar: AppBar(
-          title: const Text("ExplainAppPage アプリの説明画面"),
+          title: const Text("アプリの説明画面 ExplainAppPage"),
         ),
         body: Column(
           children: const <Widget>[],
